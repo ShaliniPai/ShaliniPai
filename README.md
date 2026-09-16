@@ -4,7 +4,7 @@
 
 **Principal Engineer | Tech Lead | 8+ years in Cloud, Platform Engineering & Full-Stack Development | Building scalable AWS-powered enterprise solutions**
 
-📍 India · 🌍 Open to global opportunities
+📍 India 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
